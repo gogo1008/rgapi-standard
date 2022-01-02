@@ -53,3 +53,14 @@ https://gitee.com/rg1008/rgapi-standard
 #### 表单变更记录 Form change record
 ![image](https://user-images.githubusercontent.com/36293698/146658605-1e45c656-da9b-48ad-a0bd-8ea67d673774.png)
 
+### 表单多页签 Multi-tabbed form
+![image](https://user-images.githubusercontent.com/36293698/147865095-da961233-f77f-43fc-a62c-3e4d37863540.png)
+
+### 表单1对多 Form 1 to many
+![image](https://user-images.githubusercontent.com/36293698/147865117-3d5ea9d0-4002-408f-8d9a-2c909729bf78.png)
+
+### 表单1对多 里面下拉组件 Form 1 to many, drop-down component inside
+![image](https://user-images.githubusercontent.com/36293698/147865130-e18a3028-a23a-46a3-8cff-c618bd11a7da.png)
+
+### 表单1对多 用户查找带回 Form 1-to-many user search and bring back
+![image](https://user-images.githubusercontent.com/36293698/147865146-b3a68bea-29a2-4e19-9763-326264d740ea.png)
