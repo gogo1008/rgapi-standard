@@ -15,9 +15,11 @@ Cloud aggregation interface specification
 ### 6、Internet + Internet of Things
 
 ### links
-1、https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2pt3mc852i0
+1、接口架构：https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2pt3mc852i0
 
-2、https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2u3r633uoi8
+2、接口标准：https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2u3r633uoi8
+
+3、变更记录：https://doc.rg1008.com/docs/rg_pass_log/rg_pass_log-1dhikp69aia8o
 
 ###  gitee
 https://gitee.com/rg1008/rgapi-standard
