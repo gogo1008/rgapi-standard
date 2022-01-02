@@ -16,6 +16,7 @@ Cloud aggregation interface specification
 
 ### links
 1、https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2pt3mc852i0
+2、https://doc.rg1008.com/docs/rg_pass_api/rg_pass_api-1d2u3r633uoi8
 
 ###  gitee
 https://gitee.com/rg1008/rgapi-standard
