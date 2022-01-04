@@ -71,4 +71,6 @@ https://gitee.com/rg1008/rgapi-standard
 
 ### 表单审核组件 Form review component
 ![image](https://user-images.githubusercontent.com/36293698/147865171-58d513cf-7fc5-4dca-af5b-92a89ba3c870.png)
+![image](https://user-images.githubusercontent.com/36293698/148017522-10bde83f-7510-4c98-a9c2-908ba2bc3d34.png)
+
 
