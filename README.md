@@ -24,10 +24,13 @@ Cloud aggregation interface specification
 ###  gitee
 https://gitee.com/rg1008/rgapi-standard
 
+
 ### Architecture diagram
 ![image](https://user-images.githubusercontent.com/36293698/145318488-512e18a2-f512-46d2-b851-214e31ed6d35.png)
 
 ### 全域数字中台 Global Digital Middle Office
+### 仪表盘 dash board
+![image](https://user-images.githubusercontent.com/36293698/148018549-5f94cac3-3178-43e1-8d0e-f79e2aa1dcbe.png)
 #### 权限 Popedom
 ![image](https://user-images.githubusercontent.com/36293698/146658450-6c82314c-4d27-4bcd-9496-60361af07f39.png)
 #### 字段权限 Field Popedom
