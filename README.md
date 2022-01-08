@@ -76,4 +76,7 @@ https://gitee.com/rg1008/rgapi-standard
 ![image](https://user-images.githubusercontent.com/36293698/147865171-58d513cf-7fc5-4dca-af5b-92a89ba3c870.png)
 ![image](https://user-images.githubusercontent.com/36293698/148017522-10bde83f-7510-4c98-a9c2-908ba2bc3d34.png)
 
+### 表格多组件方式筛选 Table multi-component filtering
+![image](https://user-images.githubusercontent.com/36293698/148647268-04130f0e-27e9-468d-8817-137adaf3a101.png)
+
 
