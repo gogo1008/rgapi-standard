@@ -72,6 +72,13 @@ https://gitee.com/rg1008/rgapi-standard
 ### 表单1对多 用户查找带回 Form 1-to-many user search and bring back
 ![image](https://user-images.githubusercontent.com/36293698/147865146-b3a68bea-29a2-4e19-9763-326264d740ea.png)
 
+
+### 表单图片上传和预览 Form image upload and preview
+![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/36293698/148875512-f50c96fb-6857-4242-bb66-3e9bc911b934.png)
+
+
 ### 表单审核组件 Form review component
 ![image](https://user-images.githubusercontent.com/36293698/147865171-58d513cf-7fc5-4dca-af5b-92a89ba3c870.png)
 ![image](https://user-images.githubusercontent.com/36293698/148017522-10bde83f-7510-4c98-a9c2-908ba2bc3d34.png)
