@@ -74,7 +74,8 @@ https://gitee.com/rg1008/rgapi-standard
 
 
 ### 表单图片上传和预览 Form image upload and preview
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/36293698/148875758-0bb079c9-3349-496f-92e0-a824f44c6fbc.png)
+![image](https://user-images.githubusercontent.com/36293698/148875801-34a009e6-eb61-4119-8ff9-8abd4de23cb6.png)
 
 ![image](https://user-images.githubusercontent.com/36293698/148875512-f50c96fb-6857-4242-bb66-3e9bc911b934.png)
 
