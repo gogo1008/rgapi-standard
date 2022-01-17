@@ -89,6 +89,9 @@ https://gitee.com/rg1008/rgapi-standard
 ![image](https://user-images.githubusercontent.com/36293698/148647546-68fa386d-af7f-4a66-8153-dd962e98ed73.png)
 ![image](https://user-images.githubusercontent.com/36293698/148647576-b448a5d7-94df-4697-b8b6-bfaa8c7e798d.png)
 
+### 表单json组件 jsonedit
+![image](https://user-images.githubusercontent.com/36293698/149743334-ae9d1c11-993c-4e9b-9acb-dbf8595fa6a8.png)
+
 
 
 
