@@ -53,6 +53,7 @@ https://gitee.com/rg1008/rgapi-standard
 
 #### 表单文本域、图片组件 Form text field, image component
 ![image](https://user-images.githubusercontent.com/36293698/146658570-a25e3df3-86f3-435d-9da3-38dea55ec6b0.png)
+![image](https://user-images.githubusercontent.com/36293698/151144687-e0629e14-42ff-40a2-9e99-2c3a51c775c2.png)
 
 #### 表单地图组件 Form map component
 ![image](https://user-images.githubusercontent.com/36293698/146658598-e23381c2-bc84-403a-ab35-344af248f8db.png)
