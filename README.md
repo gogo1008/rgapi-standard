@@ -24,6 +24,7 @@ Cloud aggregation interface specification
 ###  gitee
 https://gitee.com/rg1008/rgapi-standard
 
+![榕贵平台--平台整体架构图](https://user-images.githubusercontent.com/36293698/152765501-e6164fa2-1989-41ae-996f-0e5de9cceb90.jpg)
 
 ### Architecture diagram
 ![image](https://user-images.githubusercontent.com/36293698/145318488-512e18a2-f512-46d2-b851-214e31ed6d35.png)
