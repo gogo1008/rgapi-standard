@@ -32,6 +32,10 @@ https://gitee.com/rg1008/rgapi-standard
 ### 全域数字中台 Global Digital Middle Office
 ### 仪表盘 dash board
 ![image](https://user-images.githubusercontent.com/36293698/148018549-5f94cac3-3178-43e1-8d0e-f79e2aa1dcbe.png)
+
+### 开发平台 DevOps
+![image](https://user-images.githubusercontent.com/36293698/153983492-47f1cf1f-e579-431c-be68-a2a1b1a12fa3.png)
+
 #### 权限 Popedom
 ![image](https://user-images.githubusercontent.com/36293698/146658450-6c82314c-4d27-4bcd-9496-60361af07f39.png)
 #### 字段权限 Field Popedom
