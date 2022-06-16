@@ -1,5 +1,10 @@
 # rgapi-standard
 Cloud aggregation interface specification
+
+
+### 版本变更记录
+https://doc.rg1008.com/docs/rg_pass_log/rg_pass_log-1dpubsabl25v4
+
 ### 1、接口开发规范
 ### 2、跨平台
 ### 3、跨系统
